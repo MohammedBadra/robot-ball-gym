@@ -27,7 +27,7 @@ cd a1-soccer-env
 ```
 
 ## Environment Details
-# A1 Robot
+## A1 Robot
 
 The A1 robot is a quadruped robot modeled in MuJoCo. It has been designed to interact with the soccer ball and perform actions like dribbling, shooting, and passing.
 Soccer Field
