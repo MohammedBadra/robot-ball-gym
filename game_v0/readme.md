@@ -10,13 +10,13 @@ The A1 Soccer Environment is a simulated environment where the A1 robot, designe
 - Python: This project is developed using Python, ensure you have it installed.
 
 ### Installation
-1. Clone the repository to your local machine.
+Clone the repository to your local machine.
 ```bash
 git clone https://github.com/your-username/a1-soccer-env.git
 cd a1-soccer-env
 ```
 
-    Install the required dependencies.
+Install the required dependencies.
 ```bash
     pip install -r requirements.txt
 ```
